@@ -1,0 +1,29 @@
+Regression Problems:
+
+single linear Regresssion:
+
+y=b0+b1x
+
+Multiple linear Regresssion:
+
+y=b0+b1x+b2x+b3X........
+
+
+Assumptions of linear regression:
+
+*linearity
+*homoscedasiticity
+*Multivariate normality
+*lack of Multicollinearty
+*independence of errors 
+
+Dummy variables:
+
+for N number of dummy variables you need to N-1 columns - always omit the last one
+
+
+what is P value:
+
+https://www.mathbootcamps.com/what-is-a-p-value/
+
+https://www.wikihow.com/Calculate-P-Value
